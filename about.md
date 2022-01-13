@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Math & Stats Student learning Python
 
 ### More Information
 
